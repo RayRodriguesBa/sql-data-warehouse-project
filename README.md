@@ -1,4 +1,4 @@
-# sql-data-warehouse-project
+# Data Warehouse and Analytics Project
 Construção de um moderno Data Warehouse com SQL Server, incluindo processos de ETL, modelagem de dados e análises.
 
 Bem-vindo ao repositório do Data Warehouse and Analytics Project
