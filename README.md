@@ -10,13 +10,10 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 - Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 - Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+---
 
 ## 📊 ETL Process – Implemented Components
 
-This ETL process was implemented using the components highlighted in green in the architecture diagram.  
-For the Transformation stage, all transformation components were applied.
-
----
 
 ### 🔹 1. Extraction
 
